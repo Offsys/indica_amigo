@@ -1,0 +1,2 @@
+# indica_amigo
+Friend
