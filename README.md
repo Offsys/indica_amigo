@@ -1,4 +1,4 @@
-# Ewallet - Indicação de amigos
+# Friends
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=DONE&color=GREEN&style=for-the-badge)
 
 ### Desenvolvido por Osvaldo Wolski 
